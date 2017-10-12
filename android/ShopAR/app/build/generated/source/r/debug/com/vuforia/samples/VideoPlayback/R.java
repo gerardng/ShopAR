@@ -19,42 +19,60 @@ public final class R {
         public static final int white=0x7f060005;
     }
     public static final class dimen {
-        public static final int menu_entries_sides_padding=0x7f040002;
+        public static final int activity_horizontal_margin=0x7f040002;
+        public static final int activity_vertical_margin=0x7f040003;
+        public static final int menu_entries_sides_padding=0x7f040004;
         public static final int menu_entries_text=0x7f040000;
         public static final int menu_entries_title=0x7f040001;
-        public static final int menu_entries_top_down_padding=0x7f040003;
-        public static final int menu_entries_top_down_radio_padding=0x7f040004;
-        public static final int menu_title=0x7f040005;
-        public static final int menu_title_padding=0x7f040006;
+        public static final int menu_entries_top_down_padding=0x7f040005;
+        public static final int menu_entries_top_down_radio_padding=0x7f040006;
+        public static final int menu_title=0x7f040007;
+        public static final int menu_title_padding=0x7f040008;
+        public static final int navigation_drawer_width=0x7f040009;
     }
     public static final class drawable {
-        public static final int icon=0x7f020000;
-        public static final int logo=0x7f020001;
-        public static final int vuforia_splash=0x7f020002;
+        public static final int drawer_shadow=0x7f020000;
+        public static final int ic_drawer=0x7f020001;
+        public static final int icon=0x7f020002;
+        public static final int logo=0x7f020003;
+        public static final int vuforia_splash=0x7f020004;
     }
     public static final class id {
-        public static final int about_html_text=0x7f080002;
-        public static final int about_text_title=0x7f080000;
-        public static final int button_start=0x7f080001;
-        public static final int camera_overlay_layout=0x7f080003;
-        public static final int loading_indicator=0x7f080004;
-        public static final int logo_image=0x7f08000b;
-        public static final int menu_group_title=0x7f080006;
-        public static final int menu_group_title_divider=0x7f080007;
-        public static final int settings_menu=0x7f080008;
-        public static final int settings_menu_title=0x7f080009;
-        public static final int splash_image=0x7f08000a;
-        public static final int surface_view=0x7f080005;
+        public static final int about_html_text=0x7f090002;
+        public static final int about_text_title=0x7f090000;
+        public static final int action_example=0x7f090011;
+        public static final int action_settings=0x7f090010;
+        public static final int button_start=0x7f090001;
+        public static final int camera_overlay_layout=0x7f090006;
+        public static final int container=0x7f090004;
+        public static final int drawer_layout=0x7f090003;
+        public static final int loading_indicator=0x7f090007;
+        public static final int logo_image=0x7f09000f;
+        public static final int menu_group_title=0x7f09000a;
+        public static final int menu_group_title_divider=0x7f09000b;
+        public static final int navigation_drawer=0x7f090005;
+        public static final int section_label=0x7f090008;
+        public static final int settings_menu=0x7f09000c;
+        public static final int settings_menu_title=0x7f09000d;
+        public static final int splash_image=0x7f09000e;
+        public static final int surface_view=0x7f090009;
     }
     public static final class layout {
         public static final int about_screen=0x7f030000;
-        public static final int camera_overlay=0x7f030001;
-        public static final int fullscreen_layout=0x7f030002;
-        public static final int sample_app_menu_group=0x7f030003;
-        public static final int sample_app_menu_group_divider=0x7f030004;
-        public static final int sample_app_menu_group_radio_button=0x7f030005;
-        public static final int sample_app_menu_layer=0x7f030006;
-        public static final int splash_screen=0x7f030007;
+        public static final int activity_main=0x7f030001;
+        public static final int camera_overlay=0x7f030002;
+        public static final int drawer_main=0x7f030003;
+        public static final int fragment_main=0x7f030004;
+        public static final int fullscreen_layout=0x7f030005;
+        public static final int sample_app_menu_group=0x7f030006;
+        public static final int sample_app_menu_group_divider=0x7f030007;
+        public static final int sample_app_menu_group_radio_button=0x7f030008;
+        public static final int sample_app_menu_layer=0x7f030009;
+        public static final int splash_screen=0x7f03000a;
+    }
+    public static final class menu {
+        public static final int global=0x7f080000;
+        public static final int main=0x7f080001;
     }
     public static final class string {
         public static final int INIT_ERROR=0x7f070000;
@@ -68,24 +86,33 @@ public final class R {
         public static final int INIT_LICENSE_ERROR_NO_NETWORK_TRANSIENT=0x7f070008;
         public static final int INIT_LICENSE_ERROR_PRODUCT_TYPE_MISMATCH=0x7f070009;
         public static final int INIT_LICENSE_ERROR_UNKNOWN_ERROR=0x7f07000a;
-        public static final int app_description=0x7f07000b;
-        public static final int app_name=0x7f07000c;
-        public static final int button_start=0x7f07000d;
-        public static final int menu_back=0x7f07000e;
-        public static final int menu_camera=0x7f07000f;
-        public static final int menu_camera_back=0x7f070010;
-        public static final int menu_camera_front=0x7f070011;
-        public static final int menu_contAutofocus=0x7f070012;
-        public static final int menu_contAutofocus_error_off=0x7f070013;
-        public static final int menu_contAutofocus_error_on=0x7f070014;
-        public static final int menu_extended_tracking=0x7f070015;
-        public static final int menu_flash=0x7f070016;
-        public static final int menu_flash_error_off=0x7f070017;
-        public static final int menu_flash_error_on=0x7f070018;
-        public static final int menu_playFullscreenVideo=0x7f070019;
-        public static final int splash_screen_description=0x7f07001a;
+        public static final int action_example=0x7f07000b;
+        public static final int action_settings=0x7f07000c;
+        public static final int app_description=0x7f07000d;
+        public static final int app_name=0x7f07000e;
+        public static final int button_start=0x7f07000f;
+        public static final int menu_back=0x7f070010;
+        public static final int menu_camera=0x7f070011;
+        public static final int menu_camera_back=0x7f070012;
+        public static final int menu_camera_front=0x7f070013;
+        public static final int menu_contAutofocus=0x7f070014;
+        public static final int menu_contAutofocus_error_off=0x7f070015;
+        public static final int menu_contAutofocus_error_on=0x7f070016;
+        public static final int menu_extended_tracking=0x7f070017;
+        public static final int menu_flash=0x7f070018;
+        public static final int menu_flash_error_off=0x7f070019;
+        public static final int menu_flash_error_on=0x7f07001a;
+        public static final int menu_playFullscreenVideo=0x7f07001b;
+        public static final int navigation_drawer_close=0x7f07001c;
+        public static final int navigation_drawer_open=0x7f07001d;
+        public static final int splash_screen_description=0x7f07001e;
+        public static final int title_activity_main=0x7f07001f;
+        public static final int title_section1=0x7f070020;
+        public static final int title_section2=0x7f070021;
+        public static final int title_section3=0x7f070022;
     }
     public static final class style {
         public static final int SampleAppsTheme=0x7f050000;
+        public static final int appTheme=0x7f050001;
     }
 }

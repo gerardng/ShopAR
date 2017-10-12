@@ -1,91 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="armeabi-v7a,armeabi"
-    api-level="21"
+    api-level="23"
     build-mode="COLD"
-    density="xxhdpi"
+    density="xxxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1507590730482"
-    token="3282766679696220167"
+    timestamp="1507780570882"
+    token="7536551125816765932"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="661" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="42" />
+        duration="0" />
     <task
         name="verifier"
-        duration="17" />
+        duration="0" />
 
     <artifact
-        location="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/outputs/apk/ShopAR-debug.apk"
+        location="/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/outputs/apk/ShopAR-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1507589557629"
+        timestamp="1507776719994"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/outputs/apk/ShopAR-debug.apk"
+            location="/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/outputs/apk/ShopAR-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1507590730482"
+        timestamp="1507779429667"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1507780322955"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1507780570882"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/outputs/apk/ShopAR-debug.apk"
+            location="/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/outputs/apk/ShopAR-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 

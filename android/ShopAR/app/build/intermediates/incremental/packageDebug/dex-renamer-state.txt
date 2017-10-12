@@ -1,7 +1,7 @@
-#Mon Oct 09 16:12:15 PDT 2017
-base.0=/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1e529df67793c8c95d60ae8c2172e96651abea2a
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cbd2e1d7651ade2cb36bce50395906e6766de8ef/classes.dex
-base.1=/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cbd2e1d7651ade2cb36bce50395906e6766de8ef
-file.0=/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1e529df67793c8c95d60ae8c2172e96651abea2a/classes.dex
+#Wed Oct 11 20:56:12 PDT 2017
+base.0=/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bbea1b535a0282a7fbe3a1f350fb02c3e27c633b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a4266c8415ebb6478d2faf0e331159eadbec69da/classes.dex
+base.1=/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a4266c8415ebb6478d2faf0e331159eadbec69da
+file.0=/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bbea1b535a0282a7fbe3a1f350fb02c3e27c633b/classes.dex

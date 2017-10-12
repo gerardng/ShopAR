@@ -3,9 +3,9 @@
 
     <string name="app_name">VidPlayback</string>
     <string name="app_description">VideoPlayback Sample Application</string>
-    
+
     <string name="button_start">Start</string>
-    
+
     <string name="INIT_ERROR">Error</string>
     <string name="INIT_ERROR_DEVICE_NOT_SUPPORTED">Failed to initialize Vuforia. This device is not supported.</string>
     <string name="INIT_ERROR_NO_CAMERA_ACCESS">Failed to initialize Vuforia. Camera not accessible</string>
@@ -29,7 +29,19 @@
     <string name="menu_camera">CAMERA</string>
     <string name="menu_camera_front">Front</string>
     <string name="menu_camera_back">Rear</string>
-        
+
     <string name="splash_screen_description">Vuforia Splash</string>
-    
+    <string name="title_activity_main">Main</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
 </resources>

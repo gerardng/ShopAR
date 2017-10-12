@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/res/merged/debug/menu/global.xml",
+        "source": "/Users/lulu/Documents/ShopAR/android/ShopAR/app/src/main/res/menu/global.xml"
+    },
+    {
+        "merged": "/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/lulu/Documents/ShopAR/android/ShopAR/app/src/main/res/menu/main.xml"
+    }
+]

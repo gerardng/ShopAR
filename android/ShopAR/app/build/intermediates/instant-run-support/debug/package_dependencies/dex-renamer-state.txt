@@ -1,4 +1,25 @@
-#Mon Oct 09 15:52:50 PDT 2017
-base.0=/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_5e817dbcdb42316ab4a68f2f7a172d1b7240fceb
-renamed.0=classes.dex
-file.0=/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_5e817dbcdb42316ab4a68f2f7a172d1b7240fceb/classes.dex
+#Wed Oct 11 19:52:09 PDT 2017
+renamed.7=classes.dex
+renamed.6=classes4.dex
+renamed.5=classes3.dex
+renamed.4=classes6.dex
+renamed.3=classes8.dex
+renamed.2=classes7.dex
+renamed.1=classes5.dex
+renamed.0=classes2.dex
+base.7=/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ec19e6404740d675ef982d526c0ec42a9447d53
+base.6=/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3d575205fb0debf1c2b2ce15e66940568ce2f6b
+base.5=/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b1ac1ee586552c5546a3b7b3a61d97f3f3e8181
+base.4=/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df58abdda45c44398b2cf4a8b0650df6c290f5a3
+base.3=/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_c2874e1451b0d3e88196967aaca582c425112343
+base.2=/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_9ba0827c7541c0730e06dd025aec96a358558367
+base.1=/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf4823ac27865b9fbf7fa0c71d69e0c8ec913211
+base.0=/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38ec4e3fe2c1184da65fd44e6efe9322044f5db2
+file.7=/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ec19e6404740d675ef982d526c0ec42a9447d53/classes.dex
+file.6=/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3d575205fb0debf1c2b2ce15e66940568ce2f6b/classes.dex
+file.5=/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b1ac1ee586552c5546a3b7b3a61d97f3f3e8181/classes.dex
+file.4=/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df58abdda45c44398b2cf4a8b0650df6c290f5a3/classes.dex
+file.3=/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_c2874e1451b0d3e88196967aaca582c425112343/classes.dex
+file.2=/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_9ba0827c7541c0730e06dd025aec96a358558367/classes.dex
+file.1=/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf4823ac27865b9fbf7fa0c71d69e0c8ec913211/classes.dex
+file.0=/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38ec4e3fe2c1184da65fd44e6efe9322044f5db2/classes.dex
