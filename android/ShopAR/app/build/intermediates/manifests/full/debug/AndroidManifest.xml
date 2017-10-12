@@ -11,7 +11,7 @@
         android:targetSdkVersion = application's targeted API level
     -->
     <uses-sdk
-        android:minSdkVersion="21"
+        android:minSdkVersion="14"
         android:targetSdkVersion="26" />
 
     <uses-feature android:glEsVersion="0x00020000" />

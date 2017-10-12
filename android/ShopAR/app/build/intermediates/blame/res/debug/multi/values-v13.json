@@ -33,7 +33,15 @@
                     "endOffset": 365
                 },
                 "from": {
-                    "file": "/Users/lulu/Documents/ShopAR/android/ShopAR/app/src/main/res/values-v13/styles.xml"
+                    "file": "/Users/lulu/Documents/ShopAR/android/ShopAR/app/src/main/res/values-v13/styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 426
+                    }
                 }
             }
         ]

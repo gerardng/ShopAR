@@ -4,12 +4,12 @@
         "source": "/Users/lulu/Documents/ShopAR/android/ShopAR/app/src/main/res/drawable-xhdpi/ic_drawer.png"
     },
     {
-        "merged": "/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo.png",
-        "source": "/Users/lulu/Documents/ShopAR/android/ShopAR/app/src/main/res/drawable-xhdpi/logo.png"
-    },
-    {
         "merged": "/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/res/merged/debug/drawable-xhdpi/drawer_shadow.9.png",
         "source": "/Users/lulu/Documents/ShopAR/android/ShopAR/app/src/main/res/drawable-xhdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo.png",
+        "source": "/Users/lulu/Documents/ShopAR/android/ShopAR/app/src/main/res/drawable-xhdpi/logo.png"
     },
     {
         "merged": "/Users/lulu/Documents/ShopAR/android/ShopAR/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon.png",

@@ -25,7 +25,7 @@
 
     <Button
         android:id="@id/button_start"
-        android:layout_width="0px"
+        android:layout_width="200px"
         android:layout_height="200px"
         android:onClick="onClick"
         android:text="button to about screen" />

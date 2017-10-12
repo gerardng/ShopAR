@@ -15,7 +15,7 @@ android {
 
     defaultConfig {
         applicationId "com.vuforia.samples.VideoPlayback"
-        minSdkVersion 21
+        minSdkVersion 14
         targetSdkVersion 26
         versionCode 600
         versionName "6.0"
